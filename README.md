@@ -1,139 +1,129 @@
-<h1 align="center">Hi, I'm Shamsur Rahman Khan 👋</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,22,30&height=200&section=header&text=Shamsur%20Rahman%20Khan&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20%E2%80%A2%20Backend%20%E2%80%A2%20AI-First%20Engineering&descAlignY=58&descAlign=50" width="100%" />
+</div>
 
 <p align="center">
-  <strong>Full Stack Developer</strong> · MERN · Next.js · TypeScript
-</p>
-
-<p align="center">
-  <em>I build clean, responsive web apps that are fast, accessible and easy to maintain.</em>
-</p>
-
-<p align="center">
-  <a href="https://shamsurrk0909.vercel.app">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/shamsur-rahaman-khan">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/SRKHAN09">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="mailto:shamsurrk0609@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://github.com/shamsurrk0909">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;MERN+Stack+%7C+REST+APIs+%E2%9A%A1;Learning+%26+Building+AI-First+Backends+%F0%9F%A4%96;2x+Smart+India+Hackathon+Finalist+%F0%9F%8F%86" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shamsurrk0909&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://linkedin.com/in/shamsur-rahaman-khan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="mailto:shamsurrk0609@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  &nbsp;
+  <a href="https://leetcode.com/u/shamsurrk09" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  &nbsp;
+  <a href="https://hackerrank.com/shamsurrrk09" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+  <!-- Add your portfolio badge here if you have one:
+  &nbsp;
+  <a href="YOUR_PORTFOLIO_URL" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  -->
 </p>
 
 ---
 
-## 👨‍💻 About Me
+### 🚀 About Me
 
-I'm a **Computer Science graduate** who enjoys turning ideas into practical, production-ready web applications. I care about readable code, thoughtful UI and solid fundamentals.
-
-- 🚀 Building full-stack projects with the **MERN stack**
-- 🌱 Currently learning **Next.js, TypeScript and System Design**
-- 🧩 Sharpening problem-solving through **Data Structures & Algorithms**
-- 🤝 **Open to full-time roles, internships and collaborations**
-
----
-
-## 🚀 Featured Projects
-
-<!-- Replace each row with your real projects. Add a live link AND a repo link. -->
-
-| Project | What it does | Stack | Links |
-|---|---|---|---|
-| **Project Name** | One line on the problem it solves and what makes it stand out | React · Node.js · MongoDB | [Live](#) · [Code](#) |
-| **Project Name** | One line on the problem it solves and what makes it stand out | Next.js · TypeScript · PostgreSQL | [Live](#) · [Code](#) |
-| **Project Name** | One line on the problem it solves and what makes it stand out | React · Express · Firebase | [Live](#) · [Code](#) |
-
-> 💡 Pin your 4–6 best repositories on your profile too, and give each a clear README with screenshots.
-
----
-
-## 🛠️ Tech Stack
-
-**Frontend**
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-</p>
-
-**Backend & Databases**
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-</p>
-
-**Languages & Tools**
-
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel" />
-</p>
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <p>
+        Hi! 👋 I'm <b>Shamsur Rahman Khan</b>, a B.Tech CSE graduate (2025) from Noida, India, who loves building full-stack web apps and reliable backend services.
+      </p>
+      <ul>
+        <li>🔭 <b>Currently Building:</b> MERN applications and AI-integrated backend services.</li>
+        <li>🎓 <b>Training:</b> Airtribe's 24-week <b>AI-First Software Engineering</b> program (Knowledge Partner: E-Cell, IIT Delhi).</li>
+        <li>⚡ <b>Core Stack:</b> React, Node.js, Express, MongoDB, Python, Java.</li>
+        <li>🌱 <b>Exploring:</b> LLM APIs, RAG, agents, system design, and cloud deployment.</li>
+        <li>🏆 <b>Achievement:</b> Smart India Hackathon Finalist (2024 &amp; 2025).</li>
+        <li>🧩 <b>Practice:</b> 100+ problems solved on LeetCode.</li>
+        <li>📫 <b>Reach me:</b> <a href="mailto:shamsurrk0609@gmail.com">shamsurrk0609@gmail.com</a></li>
+      </ul>
+    </td>
+    <td width="40%" valign="middle" align="center">
+      <a href="https://github.com/shamsurrk0909">
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=shamsurrk0909&theme=tokyonight&hide_border=false&border_radius=10&layout=compact" alt="Top Languages" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🧠 Problem Solving
+### 🛠️ Core Tech & Tooling
 
-I practice DSA regularly to strengthen my logic and write more efficient code.
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <h4>🌐 Frontend & UI</h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind&theme=dark" alt="Frontend Skills" />
+      </a>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <h4>⚙️ Backend, Data & Cloud</h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,firebase,aws,docker&theme=dark" alt="Backend Skills" />
+      </a>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <h4>💬 Languages & Tools</h4>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=c,java,python,git,github,postman,vscode&theme=dark" alt="Languages and Tools" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<p>
-  <a href="https://leetcode.com/u/shamsurrk09/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+---
+
+### 📂 Featured Projects
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| 🛒 **[E-Commerce HStore](https://github.com/shamsurrk0909/YOUR-REPO-NAME)** | Responsive e-commerce site with JWT and Firebase Auth, admin-only product management, and orders handled through a Node.js/MongoDB backend deployed on AWS. [🔗 Live demo](YOUR_LIVE_LINK) | React, Context API, Node.js, MongoDB, Firebase, AWS |
+| 🫀 **[Coronary Artery Disease Prediction](https://github.com/shamsurrk0909/YOUR-REPO-NAME)** | Capstone project, where I was Team Lead. Predicts coronary artery disease using [model] on [dataset], reaching [accuracy]. | Python, [libraries], [frontend] |
+| 🤖 **[Airtribe Capstone Name](https://github.com/shamsurrk0909/YOUR-REPO-NAME)** | [One line on what it does.] [Key feature: auth, caching, AI/RAG, etc.] | Node.js, Express, MongoDB, [others] |
+
+---
+
+### 🏆 Achievements & Learning
+
+- 🥇 **Finalist, Smart India Hackathon 2024 and 2025** (College Team Category)
+- 🧠 **100+ problems solved** on [LeetCode](https://leetcode.com/u/shamsurrk09)
+- 🎓 **AI-First Software Engineering**, Airtribe (backend, system design, applied AI)
+- 📜 **Certifications:** Full Stack Development (InternShala), Java (Great Learning), JavaScript (Udemy), MongoDB (Udemy)
+
+---
+
+### 📊 GitHub Activity & Metrics
+
+<p align="center">
+  <a href="https://github.com/shamsurrk0909">
+    <img src="https://github-stats-extended.vercel.app/api?username=shamsurrk0909&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&count_private=true" alt="GitHub Stats" />
   </a>
-  <a href="https://www.hackerrank.com/profile/shamsurrrk09">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank" />
+  &nbsp;
+  <a href="https://github.com/shamsurrk0909">
+    <img src="https://streak-stats.demolab.com/?user=shamsurrk0909&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" />
   </a>
 </p>
 
-<!-- Optional: add a live LeetCode stats card once you have a solid solved count:
-<img src="https://leetcard.jacoblin.cool/shamsurrk09?theme=dark&ext=heatmap" alt="LeetCode stats" />
--->
-
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=shamsurrk0909&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&hide_title=true" height="170" alt="GitHub stats" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=shamsurrk0909&theme=dark&hide_border=true&layout=compact&langs_count=8" height="170" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=shamsurrk0909&theme=dark&hide_border=true" alt="GitHub streak" />
+  <a href="https://leetcode.com/u/shamsurrk09">
+    <img src="https://leetcard.jacoblin.cool/shamsurrk09?theme=dark&font=Karla&ext=heatmap" alt="LeetCode Stats" width="60%" />
+  </a>
 </p>
 
 ---
 
-## 📚 Learning Resources I Follow
-
-[freeCodeCamp](https://www.freecodecamp.org/) · [The Odin Project](https://www.theodinproject.com/)
-
----
-
-## 📫 Let's Connect
-
-I'm actively looking for **software development roles and internships**. If you have an opportunity, a project idea, or just want to talk code, reach out:
-
-📧 [shamsurrk0609@gmail.com](mailto:shamsurrk0609@gmail.com) · 💼 [LinkedIn](https://linkedin.com/in/shamsur-rahaman-khan) · 🌐 [Portfolio](https://shamsurrk0909.vercel.app)
-
 <p align="center">
-  <i>Build. Learn. Solve. Repeat. 🚀</i>
+  <img src="https://komarev.com/ghpvc/?username=shamsurrk0909&label=Profile%20Views&color=38bdf8&style=flat-square" alt="Visitor Count" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/shamsurrk0909?label=Followers&style=flat-square&color=38bdf8" alt="Followers" />
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,22,30&height=100&section=footer" width="100%" />
+</div>
